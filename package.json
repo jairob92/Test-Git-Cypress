@@ -1,0 +1,27 @@
+{
+  "name": "cucumber-git",
+  "version": "1.0.0",
+  "description": "Cypress with cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jairob92/Test-Git-Cypress.git"
+  },
+  "keywords": [
+    "cucumber",
+    "git",
+    "cypress"
+  ],
+  "author": "jairo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jairob92/Test-Git-Cypress/issues"
+  },
+  "homepage": "https://github.com/jairob92/Test-Git-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^8.0.0"
+  }
+}
